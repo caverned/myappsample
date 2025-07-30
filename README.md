@@ -1,2 +1,2 @@
-$My App
+# MyApp
 This is my app
